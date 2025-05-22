@@ -3,41 +3,38 @@
     <head>
         <style>
             body{
-                -webkit-text-fill-color:whitesmoke;
+                -webkit-text-fill-color:rgb(7, 7, 7);
                 font-family:'Times New Roman', Times, serif;
+                background-image:url('cute.jpg');
             }
             ul{
-                  list-style-type: decimal-leading-zero;
+                  list-style-type: circle;
                 
             }
             ul li::marker{
                 color:azure
             }
-            table{
-                border-collapse: collapse;
-                padding: 10%;
+            .class{
+                background-image:'C:\Users\IDEAPAD\Desktop\profile.jpg';
             }
-            th, td {
-            border: 1px solid #333;
-            padding: 10px;
-            text-align: center;
-        }
         </style>
         <title>my profile</title>
     </head>
-    <body style="background-color: black;">
-        <img src="C:\Users\IDEAPAD\Desktop\profile.jpg" alt="Profile Image" style="width:160px;height:160px;border-radius:50%;display:block;margin:auto;">
-        <h2 style="color: aqua;">SEBASTIN XAVIER B</h2>
+    <body style="background-colo: black;">
+    <div=class> 
+        <img src="profile.jpg" alt="Profile Image" style="width:160px;height:160px;border-radius:50%;display:block;margin:auto;">
+        <h2>SEBASTIN XAVIER B</h2>
         <h3>Email : xstephen48@gmail.com</h3>
         <h3>Mobile : 6381920965</h3>
-        <h3>Github :</h3> <a href="(link unavailable)">https://github.com/sebastin-x</a>
+        <h3>Github :</h3> <a href="https://github.com/sebastin-x">https://github.com/sebastin-x</a>
         <hr>
+    </div>
         <h2>CAREER OBJECTIVE</h2>
-        <p >To take a challenging and managerial role in the filed of Computer 
-            programming  and implement the expertise and experience gained  in this filed to 
-            develop complex project with efficiency and qulity </p>
+        <p style="background-image:'cute.jpg';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To take a challenging and managerial role in the filed of<br> Computer 
+            programming  and implement the expertise<br> and experience gained  in this filed to 
+            develop complex<br> project with efficiency and qulity </p>
         <hr>
-        <h2 style="color: aqua;">EDUCATIONAL QUALIFICATION</h2>
+        <h2>EDUCATIONAL QUALIFICATION</h2>
          <table border="1">
             <tr>
                 <th>NAME THE COURSE</th>
@@ -69,7 +66,7 @@
             </tr>
          </table>
          <hr>
-         <h2 style="color: aqua;">ADDITIONAL COURSES</h2>
+         <h2>ADDITIONAL COURSES</h2>
          <ul>
             <li>Html Basic</li>
             <li>Data Science</li>
@@ -82,20 +79,20 @@
             in Don Bosco College</li>
          </UL>
          <hr>
-         <h2 style="color: aqua;">CERTIFICATION</h2>
+         <h2>CERTIFICATION</h2>
          <ul>
             <li>Html Basic</li>
             <li>Data Science</li>
             <li>Data Science Using Python</li>
          </ul>
          <hr>
-         <h2 style="color: aqua;">STRENGTHS</h2>
+         <h2>STRENGTHS</h2>
             <ul>
                 <li>Critical Thinking</li>
                 <li>Eager to Learn New Things</li>
             </ul>
         <hr>
-        <h2 style="color: aqua;">PERSONAL DETAILS</h2>
+        <h2>PERSONAL DETAILS</h2>
         <UL>
             <li>Date of Birth : 30/07/2005</li>
             <li>Languages Known : Tamil, English</li>
